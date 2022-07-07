@@ -9,4 +9,4 @@ double FindDistance (double x1, double y1, double z1, double x2, double y2, doub
     return distance;
 }
 
-FindDistance (x1 = 3, y1 = 6, z1 = 8, x2 = 2, y2 = 1, x2 = -7);
+FindDistance (3, 6, 8, 2, 1, -7);
